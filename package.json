@@ -1,0 +1,13 @@
+{
+  "name": "dmensah4-se3314-assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "../Client/GetImage.js",
+  "dependencies": {
+    "net": "^1.0.2",
+    "opn": "^5.4.0"
+  },
+  "devDependencies": {},
+  "author": "enter your name here",
+  "license": "ISC"
+}
